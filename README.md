@@ -1,3 +1,44 @@
+
+---
+
+## 🌐 `README.md` – Frontend (`job-tracker-ui`)
+
+```md
+# Job Application Tracker – Frontend
+
+A React + Tailwind UI for tracking job applications. Connects to a Spring Boot backend.
+
+## ✨ Features
+
+- Add job applications via form
+- Select users dynamically from dropdown
+- Displays all applications in a table
+- Tailwind styling
+- Fully responsive layout
+
+## ⚙️ Tech Stack
+
+- React (Vite)
+- Tailwind CSS
+- Axios
+- Node.js
+
+## 🛠 Setup
+
+```bash
+git clone https://github.com/swarna73/job-tracker-ui.git
+cd job-tracker-ui
+npm install
+npm run dev
+
+App runs on: http://localhost:5173
+
+Backend API: http://localhost:8080
+ Connected Repos
+	•	job-tracker-backend
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
